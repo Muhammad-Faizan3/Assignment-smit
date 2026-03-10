@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+}
+
+.container {
+    width: 900px;
+    margin: 40px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    text-align: left;
+    border-bottom: 2px solid #ccc;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+    border-bottom: 1px solid #ddd;
+}
+
+td img {
+    width: 150px;
+    height: auto;
+    border-radius: 4px;
+}
