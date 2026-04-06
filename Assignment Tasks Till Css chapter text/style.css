@@ -1,0 +1,10 @@
+/* Style the first letter to be larger and bold */
+p::first-letter {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* Set line height of paragraph */
+p {
+    line-height: 1.5;
+}

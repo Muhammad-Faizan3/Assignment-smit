@@ -1,0 +1,42 @@
+/* Apply background color to whole page */
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Style all headings */
+h1 {
+    color: #2e8b57; /* SeaGreen color */
+}
+
+h2 {
+    color: #ff4500; /* OrangeRed color */
+}
+
+/* Paragraph colors */
+.color-name {
+    color: blue;
+}
+
+.color-hex {
+    color: #ff6600;
+}
+
+.color-rgb {
+    color: rgb(100, 150, 200);
+}
+
+/* Styled div */
+.styled-div {
+    border: 2px solid #0000ff; /* Blue border */
+    background-color: #ffe4b5; /* Moccasin background */
+    padding: 10px;
+    margin: 15px 0;
+}
+
+/* Explanation paragraph */
+.explanation {
+    font-style: italic;
+    color: #333;
+}
